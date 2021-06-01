@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# jijdy的个人简历
 
-You can use the [editor on GitHub](https://github.com/jijdy/jijdy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 个人基本信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* jijdy
+* 男
+* 本科/陕西科技大学
+* CSDN博客主页：https://blog.csdn.net/I_like_kan_draw
+* github主页：https://github.com/jijdy
 
-### Markdown
+* 期望职业：java开发/服务端开发
+* 期望薪资：13k~15k
+* 期望城市：杭州/深圳/上海
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 联系方式
+* 手机：1839968858x
+* Email：jiangyao_doubletwo@163.com
 
-```markdown
-Syntax highlighted code block
+# 开源项目及作品
+* 仍在完善
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jijdy/jijdy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
